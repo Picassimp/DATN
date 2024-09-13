@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Bay
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: f7ec130e4732eab4485a97c7c124f258, type: 3}
+  - {fileID: 21300000, guid: c7ea8f32a9f0f2c4fb5c7e4a3b9c2362, type: 3}
+  - {fileID: 21300000, guid: f79b505ac9b96ac4dac078ae127f7020, type: 3}
+  - {fileID: 21300000, guid: 816d868eb695edd40907e98282a6275f, type: 3}
+  - {fileID: 21300000, guid: 6e95ca67550298d4aacdec5ac44955cc, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

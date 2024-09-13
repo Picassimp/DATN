@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lo.unity
+    guid: dbe78bf7ecb2b8247a9738755ce6e118
+  - enabled: 1
+    path: Assets/Dung/map1.unity
+    guid: a432069a7eb927047943c186702748f2
+  - enabled: 1
+    path: Assets/Dung/map2.unity
+    guid: 64825b2625fa28f448ca312bc04a92fe
+  - enabled: 1
+    path: Assets/HoangAnh/Scenes/login.unity
+    guid: 6a271dbc4ff598842b07db9faee6c40c
+  - enabled: 1
+    path: Assets/HoangAnh/Scenes/Home.unity
+    guid: 43a1c53780702744f8458877988b5786
+  - enabled: 1
+    path: Assets/HoangAnh/Scenes/logout.unity
+    guid: 640d3b2ade6c1944aaff340394cc7693
+  - enabled: 1
+    path: Assets/HoangAnh/Scenes/register.unity
+    guid: 8c4cfe12e67b9114492a1817f10bc024
+  - enabled: 1
+    path: Assets/Dung/Scene1.unity
+    guid: c17a89674f2fa0a4e95334e8d604a248
+  - enabled: 1
+    path: Assets/Toan/Scene/ToanMap2.unity
+    guid: 576bbf5b62b19314c87e6d66f220635e
+  - enabled: 1
+    path: Assets/Toan/Scene/Game Scene.unity
+    guid: 3169e896ccaa3c9488091e519125534f
+  - enabled: 0
+    path: Assets/Vu/Scenes/Map test/Map test.unity
+    guid: a0ea848cffdf04843b552bc8994a1af7
+  - enabled: 1
+    path: Assets/Vu/Scenes/Map test.unity
+    guid: 009c17ea6f5406d4292fb912cc1a282d
+  - enabled: 1
+    path: Assets/Vu/Scenes/Boss1.unity
+    guid: 04691a8e6778b9d409d346b27017e03c
+  m_configObjects: {}
